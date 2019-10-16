@@ -20,8 +20,8 @@ texture:
   tagline: Software Quality Assurance
   date_format: "%b %-d, %Y"
   style: black
-  showNav: true
-  showPicker: true
+  showNav: false
+  showPicker: false
   analytics_id: '144567323'
 
   # generate social links in footer
